@@ -1,0 +1,1 @@
+In this Android repository, simple code is implemented to perform read and write operations on the Firebase Realtime Database. Additionally, code for reading and writing to the Cloud Firestore database is also implemented. Lastly, a connection is made to the Firebase Cloud Storage, where images are uploaded and their URL is obtained to download and display them in a TextView.
